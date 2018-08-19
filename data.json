@@ -1,0 +1,60 @@
+{
+ "BasicDetails":{  
+      "image": "Koala.jpg",
+      "name":"A.sai sowmya",
+      "email":"saisowmya@gmail.com",
+      "phone":"9492617242",
+      "address":"5-55-30,3/20 brodipet,Guntur"
+   },
+   "education": 
+  [
+   	{
+     "course":"B.tech",
+     "college":"VNITSW",
+     "cgpa":"7.8"
+    },
+    {
+    	"course":"intermediate",
+    	"college":"sree chaitanya jr college",
+    	"cgpa":"93%"
+
+    },
+    {
+        "course":"SSC",
+        "college":"The central public school",
+        "cgpa":"9.7"
+    }
+  ],
+   "skills":[
+        {
+           "name":"operating systems",
+           "value":"Linux,Windows,MAC"
+        },
+        {
+           "name":" programming languages ",
+           "value":"C,C++,Java,Python"
+        }
+  ],
+   "career":{
+   	    "ca":"Firstly, I would like be a programmer,then analyst with good pay,which inturn lead to the developemnt of your organization "       
+
+ },
+ "achievements":[
+    " I got first prize in singing competition conducted in my college. ",
+    "I got 3rd prize in district level singing competiion. ",
+    "I got 2rd prize in singing nirulotsav 2K17. "
+ ] ,
+ "Description":{
+      "des":"I thereby declare that all the details mentioned above are true upto my concern."
+       },
+   "Hobbies":[
+       "singing",
+       "dancing",
+       "painting",
+       "gardening",
+       "travelling"
+
+   ]
+  } 
+
+ 
